@@ -26,3 +26,9 @@ summary: "These are the websites I created and worked on"
   <img width="200px" src="../img/SiteEltonMaia.png" class="img-thumbnail" >
 </div>
   Website created for a councilor's campaign. The site was built with WordPress to ensure quick delivery and high-quality content. Unfortunately, the site was only live during the election campaign and is no longer accessible
+<div class="text-center p-4">
+  <img width="200px" src="../img/SiteRK.png" class="img-thumbnail" >
+  <img width="200px" src="../img/SiteRKEmail.png" class="img-thumbnail" >
+  <img width="200px" src="../img/SiteRKAgendamento.png" class="img-thumbnail" >
+</div>
+  Website created for the marketing agency I worked for. The site includes various features such as a team carousel, an email-sending API, and an automated online booking system for consultations or meetings with the company, all within a user-friendly interface. Unfortunately, the site is not live at the moment, but the company plans to launch it soon.
