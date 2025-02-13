@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DashboardExcell.png
+image: img/DashboardThumb.png
 title: "Dashboards, Data analyse"
 date: 2022-2025
 published: true
