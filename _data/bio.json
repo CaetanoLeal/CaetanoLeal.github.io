@@ -49,22 +49,28 @@
       "website": "https://www.lealsistemas.com/",
       "startDate": "2023-02-02",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed and updated company systems, adding new features.",
+        "Conducted data analysis and modeling to improve system and company efficiency.",
+        "Integrated APIs into the system to expand its functionalities.",
+        "Updated the company’s front-end using Vuetify or React frameworks and low-code solutions with WordPress for more modern interfaces.",
+        "Worked on the mobile app with Flutter to ensure accessibility and adaptability."
       ]
     },
     {
       "company": "RK Marketing Agency",
       "position": "Web developer",
-      "website": "",
+      "website": "https://www.instagram.com/rkagencymarketing/",
       "startDate": "2024-08-16",
       "endDate": "2025-02-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Created a scheduling system in PHP to optimize the workflow of the agency and its clients.",
+        "Developed chatbots for WhatsApp and Telegram using Node.js, automating customer service and increasing the agency’s efficiency.",
+        "Delivered solutions that strengthened internal operations and expanded the agency’s client reach, such as creating dashboards and advanced BI integrating technology and marketing.",
+        "Developed websites for both the company, using Nuxt and Vuetify, and the agency’s clients, using WordPress and the Adobe suite, ensuring quick and high-quality delivery.",
+        "Created a routing system for election rallies, improving campaign organization."
       ]
     }
   ],
@@ -75,10 +81,13 @@
       "position": "IT Professor",
       "startDate": "2024-02-01",
       "endDate": "2024-07-01",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Taught all classes of the Python and Industry 4.0 course, using mental triggers to maintain students’ focus.",
+        "Guided students in creating an IoT project using Python, cloud computing, and SQL.",
+        "Led classes and discussions on AI and information security.",
+        "Created a BI with Power BI to analyze students' IoT results, teaching the importance of data analysis.",
+        "Coordinated the team of monitors, providing guidance, ensuring effectiveness, and assisting in their development."
       ]
     },
   ],
