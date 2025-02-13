@@ -1,43 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Caetano Leal",
+    "label": "Full-Stack developer",
+    "picture": "https://avatars.githubusercontent.com/u/113543223?v=4",
+    "email": "caetanolaraleal@gmail.com",
+    "phone": "+55 91 8062-5187",
+    "website": "https://CaetanoLeal.github.io",
+    "summary": "I am a full-stack developer with nearly three years of experience in the industry, where I have worked with various clients and taught classes. I have been standing out in the market.",
+    "location": { "address": "", "postalCode": "67133072", "city": "Ananindeua", "countryCode": "BRA", "region": "Pará" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "CaetanoLeal", "url": "http://github.com/CaetanoLeal" },
+      { "network": "linkedin", "username": "Caetano Leal", "url": "https://www.linkedin.com/in/caetanoleal/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "@caetanolealdev", "url": "https://www.instagram.com/caetanolealdev" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Cybersecurity" },
+    { "name": "Web Development" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Science Computing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Node.js", "Python", "Javascript", "Wordpress", "Postgresql", "Flutter" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Windows 11", "Git/GitHub", "Adobe creative", "Microsoft office" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University Estácio de Sá",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-02-11",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,10 +45,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Leal Sistemas",
+      "position": "Full-Stack Developer",
+      "website": "https://www.lealsistemas.com/",
+      "startDate": "2023-02-02",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -57,11 +57,11 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "RK Marketing Agency",
+      "position": "Web developer",
+      "website": "",
+      "startDate": "2024-08-16",
+      "endDate": "2025-02-01",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
@@ -71,43 +71,30 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "organization": "ETEMB State Technical School Magalhães Barata",
+      "website": "",
+      "position": "IT Professor",
+      "startDate": "2024-02-01",
+      "endDate": "2024-07-01",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Cybersecurity certificate",
+      "date": "2022",
+      "awarder": "University Estácio de Sá",
+      "summary": "The cybersecurity course completed in the university but separately from my degree earned me this title."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Conversion record on a website",
+      "date": "2024",
+      "awarder": "RK Marketing Agency",
+      "summary": "57% of the visits to our councilor's website were converted into votes."
     }
   ],
   "references": [
