@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ChatbotEntrada.png
 title: "Chatbot"
 date: 2024
 published: true
