@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Site.png
 title: "Sites"
 date: 2023-2025
 published: true
