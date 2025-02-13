@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/DashboardExcell.png
 title: "Dashboards, Data analyse"
 date: 2022-2025
 published: true
